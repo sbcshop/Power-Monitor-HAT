@@ -7,7 +7,7 @@
 
                                               OR
                                               
-You can also use GUI to enable i2c, click on Menu > Preferences > Raspberry Pi Configuration, Then enable I2C
+You can also use GUI to enable i2c, click on Menu > Preferences > Raspberry Pi Configuration > interfaces, Then enable I2C
 
 <img src="images/en_i2c.png" />
 
