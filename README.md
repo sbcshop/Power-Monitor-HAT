@@ -3,7 +3,13 @@
 
 ##  For Raspberry Pi
 
-* First enable i2c interface by running "sudo raspi-config" command then select ------------ and enable i2c or you can also use GUI to enable i2c then restart Pi.
+* First enable i2c interface by running "sudo raspi-config" command then select interfacing options >> I2C >> click on enter to enable it.
+
+                                              OR
+                                              
+You can also use GUI to enable i2c, click on Menu > Preferences > Raspberry Pi Configuration, Then enable I2C
+
+<img src="images/en_i2c.png" />
 
 * Open Terminal and install dependency required to run power monitoring HAT.
 
