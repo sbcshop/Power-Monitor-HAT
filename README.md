@@ -3,6 +3,8 @@
 
 ##  For Raspberry Pi
 
+<img src="images/circuit_diagram.png" />
+
 * First enable i2c interface by running "sudo raspi-config" command then select interfacing options >> I2C >> click on enter to enable it.
 
                                               OR
